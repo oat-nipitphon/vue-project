@@ -4,8 +4,9 @@ Vue js , Pinia ,
 # Tailwind Css 
 - npm install -D tailwindcss postcss autoprefixer
 
-- Update Config File tailwind.config.js
-  module.exports = {
+- Update create file name tailwind.config.js
+  * Config Code
+  * module.exports = {
   content: ['./index.html', './src/**/*.{vue,js,ts}'],
   theme: {
     extend: {},
